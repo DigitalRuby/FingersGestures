@@ -1,0 +1,11 @@
+﻿Changelog
+--------------------
+2.6.0	(2019-02-06)
+		- Sync gesture code with Fingers - Touch Gestures for Unity.
+		- Source code available on github! See https://github.com/DigitalRuby/FingersGestures.
+
+2.3.7	(2018-05-21)
+		- Fix for previous touch position.
+
+2.3.4	(2018-04-17)
+		- Initial release

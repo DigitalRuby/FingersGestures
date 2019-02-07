@@ -1,0 +1,9 @@
+Library
+Temp
+ProjectSettings
+*.csproj
+*.user
+*.sln
+*.suo
+.vs
+AssetStoreTools

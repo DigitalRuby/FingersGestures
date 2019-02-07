@@ -1,2 +1,0 @@
-# FingersGestures
-Universal Touch Gestures

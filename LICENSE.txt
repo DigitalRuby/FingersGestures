@@ -1,0 +1,11 @@
+Fingers Gestures has a very simple but custom license.
+
+You may use the source code in any free or commercial product with some restrictions:
+
+- You may not sell or redistribute the source code itself as a product.
+- Your product must not be primarily a touch / gesture product.
+- Games, demos, etc. with touch controls are fine, but please do not resell as a touch / gesture package.
+
+Thank you and please enjoy!
+
+- Jeff Johnson
