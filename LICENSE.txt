@@ -5,6 +5,7 @@ You may use the source code in any free or commercial product with some restrict
 - You may not sell or redistribute the source code itself as a product.
 - Your product must not be primarily a touch / gesture product.
 - Games, demos, etc. with touch controls are fine, but please do not resell as a touch / gesture package.
+- No warranty and liability for the code, just like MIT license.
 
 Thank you and please enjoy!
 
