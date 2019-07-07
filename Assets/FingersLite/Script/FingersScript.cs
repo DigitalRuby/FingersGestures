@@ -852,12 +852,15 @@ namespace DigitalRubyShared
             rotatePinch2 = new GestureTouch();
             lastMouseWheelTime = System.DateTime.MinValue;
 
-            // cleanup deleted pass through objects
-            for (int i = PassThroughObjects.Count - 1; i >= 0; i--)
+            if (PassThroughObjects != null)
             {
-                if (PassThroughObjects[i] == null)
+                // cleanup deleted pass through objects
+                for (int i = PassThroughObjects.Count - 1; i >= 0; i--)
                 {
-                    PassThroughObjects.RemoveAt(i);
+                    if (PassThroughObjects[i] == null)
+                    {
+                        PassThroughObjects.RemoveAt(i);
+                    }
                 }
             }
         }
