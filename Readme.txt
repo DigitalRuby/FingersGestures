@@ -96,7 +96,7 @@ A: Most likely you need to set the platform specific view on the gesture. You ca
 
 Thank you.
 
-Upgrade to Fingers full version today at https://www.assetstore.unity3d.com/en/#!/content/41076?aid=1011lGnL
+Upgrade to Fingers full version today at https://u3d.as/hKg?aid=1011lGnL
 
 - Jeff Johnson, creator of Fingers - Gestures for Unity
 http://www.digitalruby.com/Unity-Plugins
