@@ -6,7 +6,7 @@ Version 2.6.0.
 
 See ChangeLog.txt for history. Source code available on github: https://github.com/DigitalRuby/FingersGestures.
 
-Upgrade to Fingers full version today at https://www.assetstore.unity3d.com/en/#!/content/41076?aid=1011lGnL
+Upgrade to Fingers full version today at https://u3d.as/hKg?aid=1011lGnL
 
 License: Source code may be used in personal and professional projects. Source code may NOT be redistributed or sold. See License.txt for full details.
 
@@ -29,7 +29,7 @@ Upgrade to the full Fingers Gestures today and get:
 - Show touch circles
 - + MORE!
 
-Upgrade to Fingers full version today at https://www.assetstore.unity3d.com/en/#!/content/41076?aid=1011lGnL
+Upgrade to Fingers full version today at https://u3d.as/hKg?aid=1011lGnL
 --------------------
 
 Introduction
